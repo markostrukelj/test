@@ -9,3 +9,5 @@ More work
 
 Lokalna sprememba
 Remote sprememba
+
+Nova lokalna sprememba

@@ -5,3 +5,5 @@ Popravke v novem branchu
 Nov popravek na novem branchu
 
 Konfliktni popravek na masterju
+
+Remote popravek na masterju

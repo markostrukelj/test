@@ -1,3 +1,3 @@
 my repository aaa
 
-bbbb
+Ista vrstica

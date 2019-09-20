@@ -11,3 +11,4 @@ Lokalna sprememba
 Remote sprememba
 
 Nova lokalna sprememba
+Nova remote sprememba

@@ -8,3 +8,5 @@ Popravek na "Novo" branchu
 Konfliktni popravek na masterju
 
 Remote popravek na masterju
+
+Nek popravek

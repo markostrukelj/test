@@ -1,0 +1,70 @@
+LLLLL
+
+Nov popravek
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2dcee83... Popravek 2 in 3
+=======
+>>>>>>> 98c2132... Popravek 4
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> eba1883... Popravek 4
+=======
+=======
+>>>>>>> 2dcee83... Popravek 2 in 3
+=======
+>>>>>>> eba1883... Popravek 4
+=======
+>>>>>>> 98c2132... Popravek 4
+Popravek 2
+
+Popravek 3
+
+Popravek 4
+>>>>>>> 989ced9... Popravek 4
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2dcee83... Popravek 2 in 3
+=======
+>>>>>>> 98c2132... Popravek 4
+=======
+Popravek 2
+
+Popravek 3
+>>>>>>> a664ccc... Popravek 3
+<<<<<<< HEAD
+=======
+Popravek 2
+>>>>>>> 77444e8... Popravek 2
+>>>>>>> 68cab41... Popravek 2
+=======
+>>>>>>> 34815bd... Popravek 3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eba1883... Popravek 4
+>>>>>>> 6b7a61f... Popravek 4
+=======
+>>>>>>> 2dcee83... Popravek 2 in 3
+>>>>>>> 75fb2e9... Popravek 3
+=======
+=======
+>>>>>>> eba1883... Popravek 4
+>>>>>>> 6b7a61f... Popravek 4
+>>>>>>> 98c2132... Popravek 4
